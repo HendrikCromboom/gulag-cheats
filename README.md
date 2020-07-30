@@ -1,6 +1,6 @@
 ## BeCode Cheats for Giertz 3.23 by Hendrik Cromboom
 
-* [Terminal](test)
+* [Terminal](../blob/master/terminal.md)
 * [Git/Github]
 * [Markup]
 * [HTML]
