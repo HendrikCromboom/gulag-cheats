@@ -1,8 +1,13 @@
-‘pwd' current location
-‘ls' directories
-‘cd' move to
-‘-‘  back
-'pushd’ teleport to
+`pwd` current location
+
+`ls` directories
+
+`cd` move to
+
+`-`  back
+
+`pushd` teleport to
+
 ‘popd’ pop back
 ‘/‘ home
 ‘touch’ rename or create
