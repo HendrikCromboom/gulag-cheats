@@ -1,3 +1,6 @@
+## Terminal cheats by Hendrik Cromboom
+---
+
 `pwd` current location
 
 `ls` directories
@@ -35,3 +38,5 @@
 `sudo softwareupdate -l` shows all pending updates
 
 `sudo softwareupdate -d downloads` but doesn't install updates
+
+---
