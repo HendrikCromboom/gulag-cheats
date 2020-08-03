@@ -2,9 +2,7 @@
 
 * [Terminal](https://github.com/HendrikCromboom/gulag-cheats/blob/master/terminal.md)
 * [Git/Github](https://github.com/HendrikCromboom/gulag-cheats/blob/master/git-github.md)
-* [Markup]
-* [HTML]
+* [Markdown](https://github.com/HendrikCromboom/gulag-cheats/blob/master/markdown.md)
+* [HTML](https://github.com/HendrikCromboom/gulag-cheats/blob/master/html.md)
 * [CSS]
 * [JS]
-
-Links and code following later :)
