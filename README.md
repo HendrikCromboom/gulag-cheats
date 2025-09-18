@@ -1,4 +1,6 @@
-## BeCode Cheats for Giertz 3.23 by Hendrik Cromboom
+## Cheat Sheets for a number of technologies by Hendrik Cromboom
+
+# Soon to be annotated for Agents and LLMs
 
 * [Terminal](https://github.com/HendrikCromboom/gulag-cheats/blob/master/terminal.md)
 * [Git/Github](https://github.com/HendrikCromboom/gulag-cheats/blob/master/git-github.md)
