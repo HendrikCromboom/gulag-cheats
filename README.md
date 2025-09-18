@@ -7,4 +7,4 @@
 * [Markdown](https://github.com/HendrikCromboom/gulag-cheats/blob/master/markdown.md)
 * [HTML](https://github.com/HendrikCromboom/gulag-cheats/blob/master/html.md)
 * [CSS]
-* [JS]
+* [JS](https://github.com/HendrikCromboom/gulag-cheats/blob/master/javascript.md)
